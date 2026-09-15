@@ -4,6 +4,7 @@
 [![GitHub release](https://img.shields.io/github/release/juice-shop/juice-shop.svg)](https://github.com/juice-shop/juice-shop/releases/latest)
 [![Twitter Follow](https://img.shields.io/twitter/follow/owasp_juiceshop.svg?style=social&label=Follow)](https://twitter.com/owasp_juiceshop)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/owasp_juiceshop?style=social)](https://reddit.com/r/owasp_juiceshop)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fumapri%2FJuiceShop.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fumapri%2FJuiceShop?ref=badge_shield)
 
 ![CI/CD Pipeline](https://github.com/juice-shop/juice-shop/workflows/CI/CD%20Pipeline/badge.svg?branch=master)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/6206c8f3972bcc97a033/test_coverage)](https://codeclimate.com/github/juice-shop/juice-shop/test_coverage)
@@ -319,3 +320,6 @@ OWASP Juice Shop and any contributions are Copyright © by Bjoern Kimminich & th
 2014-2023.
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_400px.png)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fumapri%2FJuiceShop.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fumapri%2FJuiceShop?ref=badge_large)

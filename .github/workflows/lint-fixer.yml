@@ -28,4 +28,4 @@ jobs:
         commit_options: '--signoff'
         commit_user_name: JuiceShopBot
         commit_user_email: 61591748+JuiceShopBot@users.noreply.github.com
-        commit_author: JuiceShopBot <61591748+JuiceShopBot@users.noreply.github.com>
+        commit_author: JuiceShopBot_117 <61591748+JuiceShopBot@users.noreply.github.com>
